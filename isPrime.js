@@ -1046,7 +1046,7 @@ outNumber()
 
 let score = 0
 let total = 1
-let primes = 0
+let primesChecked = 0
 let ofPrimes = 0
 
 process.stdin.on('data', (answer)=>{
